@@ -1,0 +1,106 @@
+---
+format: 
+  revealjs:
+    #theme: ["theme/q-theme.scss"]
+    slide-number: c/t
+    logo: "https://www.gob.mx/cms/uploads/action_program/main_image/26942/post_post_portadavectores.gif"
+    footer: "[github.com/fdzul](https://playful-frangipane-0b13ec.netlify.app/talks/anteproyecto/anteproyecto_hotspots_aedes_resistance#/)"
+    center-title-slide: true
+highlight-style: a11y
+---
+
+<h2>Taller I<br>Modelamiento Bajo el enfoque de</h2>
+<h2>
+Ciencia de Datos
+</h2>
+
+<hr>
+
+<h4> Felipe Dzul Manzanilla</h4>
+
+<h5>Jannet Zuñiga</h5>
+
+<h5></h5>
+
+<h5></h5>
+
+<h5></h5>
+
+<h3>
+
+</h3>
+
+<h5>2023-05-11</h5>
+
+<h4>
+
+`r fontawesome::fa("github", "black")` [github.com/fdzul](https://fdzul.github.io/web_site_fadm/)
+
+![](logo.png){.absolute top="250" left="600" width="550"}
+
+## Problema
+
+<html>
+<head>
+<style>
+.newspaper {
+  column-count: 3;
+}
+</style>
+</head>
+<body>
+
+<h2></h1>
+Dirigir acciones de prevención y control a las Áreas de alto riesgo de transmisión de dengue
+<h2>Idea</h1>
+Generar un algoritmo que identique las Áreas de mayor riesgo de transmisión de dengue.
+
+<div class="newspaper">
+
+</div>
+
+</body>
+</html>
+
+
+
+
+
+## Input,  Modelo, & Output
+
+<html>
+<head>
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+  background-color: #003300;
+  padding: 10px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+</style>
+</head>
+<body>
+
+
+<div class="grid-container">
+  <div class="grid-item">Input</div>
+  <div class="grid-item">Modelo</div>
+  <div class="grid-item">Output intermedio</div>  
+  <div class="grid-item">Output final</div>
+  <div class="grid-item">Objetivo</div>
+  <div class="grid-item">Número de Mosquitos, Número de casos, Habitantes, & Datos climáticos</div>  
+  <div class="grid-item"> Regresión espacial (mosquitos) & Estadísticos espaciales Locales (número de casos)</div>
+  <div class="grid-item">Predición del Número de mosquitos & Predicción del Número de casos</div>
+  <div class="grid-item">Identificación de areas de alto riesgo de Transmision de Dengue</div>
+  <div class="grid-item">Dirigir acciones de prevención y control del vector en las áreas de mayor riesgo de transmisión de dengue</div>
+</div>
+
+</body>
+</html>
