@@ -51,9 +51,9 @@ Ciencia de Datos
 <body>
 
 <h2></h1>
-Dirigir acciones de prevención y control a las Áreas de alto riesgo de transmisión de dengue
+Dirigir acciones de prevención y control a las áreas de alto riesgo de transmisión de dengue.
 <h2>Idea</h1>
-Generar un algoritmo que identique las Áreas de mayor riesgo de transmisión de dengue.
+Generar un algoritmo que identifique las áreas de mayor riesgo de transmisión de dengue.
 
 <div class="newspaper">
 
