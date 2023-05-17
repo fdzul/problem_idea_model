@@ -20,9 +20,9 @@ Ciencia de Datos
 
 <h5>Jannet Zuñiga</h5>
 
-<h5></h5>
+<h5>Sofía Sánchez</h5>
 
-<h5></h5>
+<h5>Veronica Lara</h5>
 
 <h5></h5>
 
@@ -30,7 +30,7 @@ Ciencia de Datos
 
 </h3>
 
-<h5>2023-05-11</h5>
+<h5></h5>
 
 <h4>
 
