@@ -4,7 +4,7 @@ format:
     #theme: ["theme/q-theme.scss"]
     slide-number: c/t
     logo: "https://www.gob.mx/cms/uploads/action_program/main_image/26942/post_post_portadavectores.gif"
-    footer: "[github.com/fdzul](https://playful-frangipane-0b13ec.netlify.app/talks/anteproyecto/anteproyecto_hotspots_aedes_resistance#/)"
+    footer: "[github.com/fdzul](https://vermillion-kataifi-6d0bd2.netlify.app/taller_modelamiento/#/)"
     center-title-slide: true
 highlight-style: a11y
 ---
